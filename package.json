@@ -1,0 +1,15 @@
+{
+  "name": "yoda-time-manager",
+  "version": "0.1.0",
+  "description": "Yoda Time Manager",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron ."
+  },
+  "author": "Shantanu Alshi <shantanu.alshi@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  }
+}
